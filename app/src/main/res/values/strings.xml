@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_progrees">Progreass</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_activity_start_lesson">StartLesson</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_startlesson">Startlesson</string>
+    <string name="title_activity_vocabulary">Vocabulary</string>
+</resources>
